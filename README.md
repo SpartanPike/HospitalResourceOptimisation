@@ -1,0 +1,1 @@
+This repo is for NUS Summer Internship project. Project is on hospital resource optimisation and in it we have built 4-5 ML models and best 2 satisfying all functionalities together are deployed via Gradio and AWS.
